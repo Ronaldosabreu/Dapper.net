@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\Projeto.Data\\Projeto.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\Projeto.Data\\Projeto.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\Projeto.Data\\Projeto.Data.csproj",
+        "projectName": "Projeto.Data",
+        "projectPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\Projeto.Data\\Projeto.Data.csproj",
+        "packagesPath": "C:\\Users\\ronaldo.abreu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\Projeto.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronaldo.abreu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\ProjetoDapper.Domain\\ProjetoDapper.Domain.csproj": {
+                "projectPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\ProjetoDapper.Domain\\ProjetoDapper.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "Z.Dapper.Plus": {
+              "target": "Package",
+              "version": "[4.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\ProjetoDapper.Domain\\ProjetoDapper.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\ProjetoDapper.Domain\\ProjetoDapper.Domain.csproj",
+        "projectName": "ProjetoDapper.Domain",
+        "projectPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\ProjetoDapper.Domain\\ProjetoDapper.Domain.csproj",
+        "packagesPath": "C:\\Users\\ronaldo.abreu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\ProjetoDapper.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ronaldo.abreu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

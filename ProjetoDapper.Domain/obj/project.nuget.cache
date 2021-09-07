@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MoqWqqFKdkgyucGuI9EUvh/7Qu+++HQlpvtiWxCBKYu2Y9oZmb6hTZk16B/JmJNqLEiac43/lksQ9TGR6ifzFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ronaldo.abreu\\Desktop\\Ronaldo_Estudos\\Dapper\\Secao 02\\ProjetoDapper\\ProjetoDapper.Domain\\ProjetoDapper.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronaldo.abreu\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\ronaldo.abreu\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

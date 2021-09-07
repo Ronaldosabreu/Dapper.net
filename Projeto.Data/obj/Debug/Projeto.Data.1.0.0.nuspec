@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Projeto.Data</id>
+    <version>1.0.0</version>
+    <authors>Projeto.Data</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="ProjetoDapper.Domain" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\bin\Debug\net5.0\Projeto.Data.dll" target="lib\net5.0\Projeto.Data.dll" />
+  </files>
+</package>

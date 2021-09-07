@@ -1,0 +1,15 @@
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\bin\Debug\net5.0\Projeto.Data.deps.json
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\bin\Debug\net5.0\Projeto.Data.dll
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\bin\Debug\net5.0\ref\Projeto.Data.dll
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\bin\Debug\net5.0\Projeto.Data.pdb
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\bin\Debug\net5.0\ProjetoDapper.Domain.dll
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\bin\Debug\net5.0\ProjetoDapper.Domain.pdb
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\Projeto.Data.csproj.AssemblyReference.cache
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\Projeto.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\Projeto.Data.AssemblyInfoInputs.cache
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\Projeto.Data.AssemblyInfo.cs
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\Projeto.Data.csproj.CopyComplete
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\Projeto.Data.dll
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\ref\Projeto.Data.dll
+C:\Users\ronaldo.abreu\Desktop\Ronaldo_Estudos\Dapper\Secao 02\ProjetoDapper\Projeto.Data\obj\Debug\net5.0\Projeto.Data.pdb
